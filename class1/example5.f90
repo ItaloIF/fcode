@@ -8,5 +8,5 @@ program for
     do i = 1,n
         a = a + i
     end do
-    write(*,*) a
+    write(*,*) 'el resultado :', a
 end program for
